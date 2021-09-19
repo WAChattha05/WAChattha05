@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaleedAkramChattha
 - 👀 I’m interested to learn new technologies
-- 🌱 I’m currently learning BS-CS from FAST NUCES.
+- 🌱 I’m currently doing BS-CS from FAST NUCES.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 
 
