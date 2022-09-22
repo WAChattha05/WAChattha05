@@ -43,17 +43,17 @@
 </p>
 
 
-<h2>Github Stat </br>
+<!-- <h2>Github Stat </br>
 
 <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="DawoodSarfrazChattha's github stats" ></a>
 <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSarfrazChattha&layout=default&theme=radical&buefy&hide_border=true" /></a> 
 <!--<a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha&theme=radical&buefy&hide_border=true" alt="Wkatime stats" ></a> -->
- 
+  -->
 
 
 <h3> 🤝🏻 &nbsp; Followers </h3>
 
 <p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/WAChattha05?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/WAChattha05?style=social">
-<img alt="Instagram follow" src="https://img.shields.io/instagram/follow/wachattha05?style=social">
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/WAChattha05?style=social">
+<img alt="Instagram follow" src="https://img.shields.io/instagram/follow/wachattha05?style=social"> -->
 </p>
