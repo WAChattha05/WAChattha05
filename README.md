@@ -2,15 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=DawoodSarfrazChattha)
 
-<h1> 💁‍♂️ I'm Dawood Sarfraz Chattha </h1>
+<h1> 💁‍♂️ I'm Waleed Akram Chattha </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 - 🎓 I’m currently doing BS(CS) from FAST NUCES.<br>
 - 🌱 I’m currently learning Artificial Intelligence and machine learning.<br>
-- 👯 I’m looking to collaborate on web projects, Desktop projects.<br>
+- 👯 Looking to collaborate on web projects, Desktop projects.<br>
 - 💬 Ask me about any tech related stuff.<br>
-- 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
-- 😊 &nbsp; Let's go to done something new.<br>
+- 📫 How to reach me: waleedakram035@gmail.com<br>
+- 😊 &nbsp; Let's go to done something new but unique.<br>
 
 
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
@@ -53,6 +53,7 @@
 
 <h3> 🤝🏻 &nbsp; Followers </h3>
 
-<p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+<p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/WAChattha05?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/WAChattha05?style=social">
+<img alt="Instagram follow" src="https://img.shields.io/instagram/follow/wachattha05?style=social">
 </p>
