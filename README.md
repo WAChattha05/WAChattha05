@@ -45,17 +45,8 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <br><br>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: tokyonight)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true"
-  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true" />
-</picture>
+
+![Waleed Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAChattha05&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05)](https://github.com/WAChattha05/github-readme-stats)
 
