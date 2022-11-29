@@ -48,14 +48,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true" />
 </picture>
 
 [![Waleed's github activity graph](https://activity-graph.herokuapp.com/graph?username=WAChattha05&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/WAChattha05/github-readme-activity-graph)
