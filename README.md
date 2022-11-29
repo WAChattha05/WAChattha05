@@ -57,6 +57,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true" />
 </picture>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WAChattha05)](https://github.com/WAChattha05/github-readme-stats)
 
 [![Waleed's github activity graph](https://activity-graph.herokuapp.com/graph?username=WAChattha05&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/WAChattha05/github-readme-activity-graph)
 
