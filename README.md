@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=WAChattha05)
 
 <h1> 💁‍♂️ I'm Waleed Akram </h1>
 
