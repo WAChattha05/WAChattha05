@@ -49,7 +49,7 @@
 <h2>Github Stats </br>
 
 <a href="https://github.com/WAChattha05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05&layout=default&theme=radical&buefy&hide_border=true" /></a> 
-<a href="https://github.com/WAChattha05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="WAChattha05's github stats" ></a>
+<a href="https://github.com/WAChattha05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WAChattha05&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="WAChattha05's github stats" ></a
 
 [![Waleed's github activity graph](https://activity-graph.herokuapp.com/graph?username=WAChattha05&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/WAChattha05/github-readme-activity-graph)
 
