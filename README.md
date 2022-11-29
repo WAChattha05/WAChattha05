@@ -2,14 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=WAChattha05)
 
-<h1> 💁‍♂️ I'm Dawood Sarfraz </h1>
+<h1> 💁‍♂️ I'm Waleed Akram </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 - 🎓 I’m currently doing BS(CS) from FAST NUCES.<br>
-- 🌱 I’m currently learning Data Science.<br>
-- 👯 I’m looking to collaborate on web projects, Desktop projects.<br>
+- 🌱 Currently learning DevOps.<br>
+- 👯 Looking to collaborate on web projects, Desktop projects.<br>
 - 💬 Ask me about any tech related stuff.<br>
-- 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
+- 📫 How to reach me: waleedakram035@gmail.com <br>
 - 😊 Let's go to done something new.<br>
 
 ## Languages
