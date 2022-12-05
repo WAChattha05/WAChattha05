@@ -52,10 +52,3 @@
 <a href="https://github.com/WAChattha05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Waleed's github activity graph](https://activity-graph.herokuapp.com/graph?username=WAChattha05&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/WAChattha05/github-readme-activity-graph)
-
-
-<h3> 🤝🏻 &nbsp; Followers </h3>
-
-<p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/WAChattha05?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/WAChattha05?style=social">
-</p>
