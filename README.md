@@ -49,7 +49,7 @@
 
 ![Waleed Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAChattha05&theme=dark&show_icons=true)
 
-<a href="https://github.com/WAChattha05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05&langs_count=12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/WAChattha05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Waleed's github activity graph](https://activity-graph.herokuapp.com/graph?username=WAChattha05&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/WAChattha05/github-readme-activity-graph)
 
