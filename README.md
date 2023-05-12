@@ -114,7 +114,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## <b>_**My GitHub Stats**_</b>
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=WAChattha05&theme=high-contrast)](https://github.com/WAChattha05/github-readme-activity-graph)
-![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAChattha05&theme=dark&show_icons=true&background=1c1917)
+![Waleed Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAChattha05&theme=dark&show_icons=true&background=1c1917)
 <a href="https://github.com/WAChattha05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAChattha05&layout=compact&theme=dark" alt="Top Languages"/></a>
 
 <p align='center'>
@@ -122,11 +122,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  </p>
 <p align='center'>
  
- <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
+ <a href = "https://www.linkedin.com/in/waleed-akram-chattha-444197215/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
   
- <a href = "mailto: dawoodsarfraz0346@gmail.com">
+ <a href = "mailto: waleedakram035@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
  </a>
    
@@ -134,29 +134,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
 </a>
                                                                                                                  
-<a href="https://twitter.com/DawoodChattha03">
+<a href="https://twitter.com/"WAChattha05">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
 
-<a href = "https://join.skype.com/invite/rtOQEcL0GFAC">
-<img src = "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
-</a>
 
- <a href = "https://github.com/Daudsarfraz">
+
+ <a href = "https://github.com/WAChattha05">
 <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
            
-<a href = "https://gitlab.com/Daudsarfraz">
+<a href = "https://gitlab.com/WAChattha05">
 <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
-<a href = "https://replit.com/@Daudsarfraz">
+<a href = "https://replit.com/@WAChattha05">
 <img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
 </a>
 
-<a href = "https://bitbucket.org/daudsarfraz/workspace/overview">
-<img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</a>
- </p>
+
 
 
