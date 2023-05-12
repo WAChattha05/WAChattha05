@@ -126,7 +126,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
   
- <a href = "mailto: adawoodsarfraz0346@gmail.com">
+ <a href = "mailto: dawoodsarfraz0346@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
  </a>
    
